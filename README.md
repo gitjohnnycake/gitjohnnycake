@@ -11,17 +11,8 @@
 - 🎉 目标：前端工程师 || 全栈工程师 || 游戏开发者 || 人民教师
 - 🐟 梦想：插画师 && 漫画家 && 剪辑大师 && 作家 && 动画人 && 独立游戏制作人 && 全职开源作者 (以及一切不切实际的东西)
 - 📫 How to reach me: wangyuyang0313@gmail.com
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
-
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=gitjohnnycake&include_all_commits=true&count_private-true&custom_title=gitjohnnycake'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9" /> -->
-
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gitjohnnycake&show_icons=true&theme=material-palenight" />
-
 
 ### 此生想要完成的事
 * [ ] 维护一个超过 1k Star 的项目
@@ -32,7 +23,5 @@
 * [ ] 写一首藏有回忆的歌
 * [ ] 在乡村老家有一栋按照自己想法建造的房子
 * [ ] 成为一个自己不讨厌的、有趣的人
-
-<!--![]()-->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitjohnnycake&layout=compact)
