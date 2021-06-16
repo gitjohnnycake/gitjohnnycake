@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](http://antzuhl.cn:4000/get/@gitjohnnycake.readme)
-![info](https://github-readme-stats.vercel.app/api?username=gitjohnnycake&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=你的账号用户名&include_all_commits=true&count_private-true&custom_title=gitjohnnycake'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
