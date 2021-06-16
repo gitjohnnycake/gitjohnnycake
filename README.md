@@ -23,10 +23,12 @@
 
 ### 经常整的活
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitjohnnycake&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitjohnnycake&layout=compact" />
 
 ![](https://img.shields.io/badge/Vue.js-blueviolet?style=for-the-badge&logo=Vue.js)</br>
 ![](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript)</br>
 ![](https://img.shields.io/badge/Node.js-afb4db?style=for-the-badge&logo=node.js)</br>
-![](https://img.shields.io/badge/Golang-aa363d?style=flat-square&logo=Go)</br>
-![](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=ffffff)
+![](https://img.shields.io/badge/Golang-aa363d?style=for-the-badge&logo=Go)</br>
+![](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=ffffff)</br>
+![](https://img.shields.io/badge/postman-472d56?style=for-the-badge&logo=Postman)
+![](https://img.shields.io/badge/react-aa2116?style=for-the-badge&logo=react)
