@@ -31,5 +31,5 @@
 ![](https://img.shields.io/badge/Vue.js-blueviolet?style=for-the-badge&logo=Vue.js)
 ![](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript)
 ![](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![](https://img.shields.io/badge/Golang-red?style=for-the-badge&logo=Go)
+![](https://img.shields.io/badge/Golang-%20yellow?style=flat-square&logo=Go&color=000000)
 ![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
