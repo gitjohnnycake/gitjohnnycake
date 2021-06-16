@@ -3,7 +3,7 @@
 <!--
 **gitjohnnycake/gitjohnnycake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-欢迎访问我的[博客](https://littlefish.love)
+### 欢迎访问我的[博客](https://littlefish.love)
 
 - 👻 20 岁，是学生。成长 ing
 - 🐣 在下年满十八，遵纪守法，爱国爱家，不碰烟酒，善养鸡鸭，多素少荤，爱吃甘蔗。
@@ -17,10 +17,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gitjohnnycake&include_all_commits=true&count_private-true&custom_title=gitjohnnycake'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9" />
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=gitjohnnycake&include_all_commits=true&count_private-true&custom_title=gitjohnnycake'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9" /> -->
 
 
-此生想要完成的事
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gitjohnnycake&show_icons=true&theme=material-palenight" />
+
+
+### 此生想要完成的事
 * [ ] 维护一个超过 1k Star 的项目
 * [X] 写一本值得出版的书
 * [ ] 做一款值得发售的游戏
