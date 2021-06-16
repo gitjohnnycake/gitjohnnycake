@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**gitjohnnycake/gitjohnnycake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 ### 欢迎访问我的[博客](https://littlefish.love)
 
 - 👻 20 岁，是学生。成长 ing
@@ -31,5 +28,5 @@
 ![](https://img.shields.io/badge/Vue.js-blueviolet?style=for-the-badge&logo=Vue.js)
 ![](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript)
 ![](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![](https://img.shields.io/badge/Golang-%20yellow?style=flat-square&logo=Go&color=000000)
-![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
+![](https://img.shields.io/badge/Golang-yellow?style=for-the-badge&logo=Go)
+![](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=ffffff)
