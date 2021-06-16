@@ -24,4 +24,6 @@
 * [ ] 在乡村老家有一栋按照自己想法建造的房子
 * [ ] 成为一个自己不讨厌的、有趣的人
 
+### 经常整的活
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitjohnnycake&layout=compact)
+![](https://img.shields.io/badge/Vue.js-blueviolet?style=for-the-badge&logo=Vue.js)
