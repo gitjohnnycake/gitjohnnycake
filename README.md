@@ -16,7 +16,7 @@
 - 💬 Ask me about ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gitjohnnycake&include_all_commits=true&count_private-true&custom_title=gitjohnnycake'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9" />
 此生想要完成的事
 * [ ] 维护一个超过 1k Star 的项目
 * [X] 写一本值得出版的书
@@ -27,7 +27,6 @@
 * [ ] 在乡村老家有一栋按照自己想法建造的房子
 * [ ] 成为一个自己不讨厌的、有趣的人
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gitjohnnycake&include_all_commits=true&count_private-true&custom_title=gitjohnnycake'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9" />
 <!--![]()-->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitjohnnycake&layout=compact)
