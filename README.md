@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Welcome to my [blog](https://littlefish.love)
+### Welcome to my [blog](https://littlefish.life)
 
 - 📫 How to reach me: wangyuyang0313@gmail.com
 - 👻 20 岁，是学生
