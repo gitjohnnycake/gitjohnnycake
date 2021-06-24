@@ -31,3 +31,4 @@
 ![](https://img.shields.io/badge/postman-472d56?style=for-the-badge&logo=Postman)</br>
 ![](https://img.shields.io/badge/react-aa2116?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/linux-281f1d?style=for-the-badge&logo=linux)
+![](https://img.shields.io/badge/TypeScript-afb4db?style=for-the-badge&logo=TypeScript)
