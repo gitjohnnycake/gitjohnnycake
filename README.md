@@ -22,7 +22,7 @@
 ### 经常整的活
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitjohnnycake&layout=compact" />
- 
+
 ![](https://img.shields.io/badge/Vue.js-blueviolet?style=for-the-badge&logo=Vue.js)
 ![](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript)</br>
 ![](https://img.shields.io/badge/Node.js-afb4db?style=for-the-badge&logo=node.js)
